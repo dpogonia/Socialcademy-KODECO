@@ -21,8 +21,8 @@ SwiftUI, Firebase Auth, Firestore, Firebase Storage, Swift Package Manager.
 ## Запуск
 
 ```bash
-git clone https://github.com/dpogonia/Socialcademy-Kodeco.git
-cd Socialcademy-Kodeco
+git clone https://github.com/dpogonia/Socialcademy-KODECO.git
+cd Socialcademy-KODECO
 open Socialcademy.xcodeproj
 ```
 
